@@ -1,0 +1,23 @@
+
+#maxtemp { 
+    height: 200px; 
+    width: 200px;
+    float: left;
+}
+
+#compIMG { 
+    height: 550px; 
+    width: 550px;
+    float: left;
+}
+
+h1{
+color: lightseagreen;
+
+}
+
+#complabel{
+    color: lightseagreen;
+    text-align: center;
+    
+}
